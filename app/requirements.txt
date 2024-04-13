@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+pymysql
+flask-marshmallow
+flask-jwt-extended
